@@ -7,9 +7,9 @@
 
 This guide is available in multiple languages:
 
-- 🇰🇷 [한국어 (Korean)](readme_ko.md)
-- 🇯🇵 [日本語 (Japanese)](readme_ja.md)
-- 🇺🇸 [English](readme_en.md)
+- 🇰🇷 [한국어 (Korean)](README_ko.md)
+- 🇯🇵 [日本語 (Japanese)](README_ja.md)
+- 🇺🇸 [English](README_en.md)
 
 ## 📋 Overview
 
